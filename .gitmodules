@@ -3,3 +3,31 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BiocSingular"]
+	path = BiocSingular
+	url = https://github.com/ltla/biocsingular
+	shallow = true
+[submodule "BumpyMatrix"]
+	path = BumpyMatrix
+	url = https://github.com/ltla/bumpymatrix
+	shallow = true
+[submodule "ResidualMatrix"]
+	path = ResidualMatrix
+	url = https://github.com/ltla/residualmatrix
+	shallow = true
+[submodule "ScaledMatrix"]
+	path = ScaledMatrix
+	url = https://github.com/ltla/scaledmatrix
+	shallow = true
+[submodule "SingleR"]
+	path = SingleR
+	url = https://github.com/ltla/singler
+	shallow = true
+[submodule "TileDBArray"]
+	path = TileDBArray
+	url = https://github.com/ltla/tiledbarray
+	shallow = true
+[submodule "TrajectoryUtils"]
+	path = TrajectoryUtils
+	url = https://github.com/ltla/trajectoryutils
+	shallow = true
