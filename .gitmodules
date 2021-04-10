@@ -7,27 +7,34 @@
 	path = BiocSingular
 	url = https://github.com/ltla/biocsingular
 	shallow = true
+	registered = true
 [submodule "BumpyMatrix"]
 	path = BumpyMatrix
 	url = https://github.com/ltla/bumpymatrix
 	shallow = true
+	registered = true
 [submodule "ResidualMatrix"]
 	path = ResidualMatrix
 	url = https://github.com/ltla/residualmatrix
 	shallow = true
+	registered = true
 [submodule "ScaledMatrix"]
 	path = ScaledMatrix
 	url = https://github.com/ltla/scaledmatrix
 	shallow = true
+	registered = true
 [submodule "SingleR"]
 	path = SingleR
 	url = https://github.com/ltla/singler
 	shallow = true
+	registered = true
 [submodule "TileDBArray"]
 	path = TileDBArray
 	url = https://github.com/ltla/tiledbarray
 	shallow = true
+	registered = true
 [submodule "TrajectoryUtils"]
 	path = TrajectoryUtils
 	url = https://github.com/ltla/trajectoryutils
 	shallow = true
+	registered = true
