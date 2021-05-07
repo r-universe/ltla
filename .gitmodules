@@ -13,6 +13,11 @@
 	url = https://github.com/ltla/bumpymatrix
 	shallow = true
 	registered = true
+[submodule "DelayedRandomArray"]
+	path = DelayedRandomArray
+	url = https://github.com/ltla/delayedrandomarray
+	shallow = true
+	registered = true
 [submodule "ResidualMatrix"]
 	path = ResidualMatrix
 	url = https://github.com/ltla/residualmatrix
