@@ -1,0 +1,34 @@
+[
+  {
+    "package": "BiocSingular",
+    "oncran": true
+  },
+  {
+    "package": "BumpyMatrix",
+    "oncran": true
+  },
+  {
+    "package": "DelayedRandomArray",
+    "oncran": true
+  },
+  {
+    "package": "ResidualMatrix",
+    "oncran": true
+  },
+  {
+    "package": "ScaledMatrix",
+    "oncran": true
+  },
+  {
+    "package": "SingleR",
+    "oncran": true
+  },
+  {
+    "package": "TileDBArray",
+    "oncran": true
+  },
+  {
+    "package": "TrajectoryUtils",
+    "oncran": true
+  }
+]
