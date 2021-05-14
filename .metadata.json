@@ -1,34 +1,26 @@
 [
   {
-    "package": "BiocSingular",
-    "oncran": true
+    "package": "BiocSingular"
   },
   {
-    "package": "BumpyMatrix",
-    "oncran": true
+    "package": "BumpyMatrix"
   },
   {
-    "package": "DelayedRandomArray",
-    "oncran": true
+    "package": "DelayedRandomArray"
   },
   {
-    "package": "ResidualMatrix",
-    "oncran": true
+    "package": "ResidualMatrix"
   },
   {
-    "package": "ScaledMatrix",
-    "oncran": true
+    "package": "ScaledMatrix"
   },
   {
-    "package": "SingleR",
-    "oncran": true
+    "package": "SingleR"
   },
   {
-    "package": "TileDBArray",
-    "oncran": true
+    "package": "TileDBArray"
   },
   {
-    "package": "TrajectoryUtils",
-    "oncran": true
+    "package": "TrajectoryUtils"
   }
 ]
