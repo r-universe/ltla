@@ -1,5 +1,26 @@
 [
   {
     "package": "BiocSingular"
+  },
+  {
+    "package": "BumpyMatrix"
+  },
+  {
+    "package": "DelayedRandomArray"
+  },
+  {
+    "package": "ResidualMatrix"
+  },
+  {
+    "package": "ScaledMatrix"
+  },
+  {
+    "package": "SingleR"
+  },
+  {
+    "package": "TileDBArray"
+  },
+  {
+    "package": "TrajectoryUtils"
   }
 ]
