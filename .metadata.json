@@ -1,5 +1,8 @@
 [
   {
+    "package": "basilisk"
+  },
+  {
     "package": "BiocSingular"
   },
   {
