@@ -12,13 +12,7 @@
     "package": "DelayedRandomArray"
   },
   {
-    "package": "ResidualMatrix"
-  },
-  {
     "package": "ScaledMatrix"
-  },
-  {
-    "package": "SingleR"
   },
   {
     "package": "TileDBArray"
