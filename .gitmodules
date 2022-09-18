@@ -28,9 +28,9 @@
 	url = https://github.com/ltla/scaledmatrix
 	shallow = true
 	registered = true
-[submodule "TileDBArray"]
-	path = TileDBArray
-	url = https://github.com/ltla/tiledbarray
+[submodule "SingleR"]
+	path = SingleR
+	url = https://github.com/ltla/singler
 	shallow = true
 	registered = true
 [submodule "TrajectoryUtils"]

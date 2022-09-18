@@ -15,7 +15,7 @@
     "package": "ScaledMatrix"
   },
   {
-    "package": "TileDBArray"
+    "package": "SingleR"
   },
   {
     "package": "TrajectoryUtils"
