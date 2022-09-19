@@ -13,11 +13,5 @@
   },
   {
     "package": "ScaledMatrix"
-  },
-  {
-    "package": "SingleR"
-  },
-  {
-    "package": "TrajectoryUtils"
   }
 ]

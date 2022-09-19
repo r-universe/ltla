@@ -28,13 +28,3 @@
 	url = https://github.com/ltla/scaledmatrix
 	shallow = true
 	registered = true
-[submodule "SingleR"]
-	path = SingleR
-	url = https://github.com/ltla/singler
-	shallow = true
-	registered = true
-[submodule "TrajectoryUtils"]
-	path = TrajectoryUtils
-	url = https://github.com/ltla/trajectoryutils
-	shallow = true
-	registered = true
