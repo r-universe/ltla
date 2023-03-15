@@ -3,29 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ResidualMatrix"]
+	path = ResidualMatrix
+	url = https://github.com/ltla/residualmatrix
+	shallow = true
+	registered = true
 [submodule "basilisk"]
 	path = basilisk
 	url = https://github.com/ltla/basilisk
 	shallow = true
 	registered = true
+[submodule "TrajectoryUtils"]
+	path = TrajectoryUtils
+	url = https://github.com/ltla/trajectoryutils
+	shallow = true
+	registered = true
 [submodule "BiocSingular"]
 	path = BiocSingular
 	url = https://github.com/ltla/biocsingular
-	shallow = true
-	registered = true
-[submodule "BumpyMatrix"]
-	path = BumpyMatrix
-	url = https://github.com/ltla/bumpymatrix
-	shallow = true
-	registered = true
-[submodule "DelayedRandomArray"]
-	path = DelayedRandomArray
-	url = https://github.com/ltla/delayedrandomarray
-	shallow = true
-	registered = true
-[submodule "ResidualMatrix"]
-	path = ResidualMatrix
-	url = https://github.com/ltla/residualmatrix
 	shallow = true
 	registered = true
 [submodule "ScaledMatrix"]
@@ -38,13 +33,18 @@
 	url = https://github.com/ltla/singler
 	shallow = true
 	registered = true
+[submodule "DelayedRandomArray"]
+	path = DelayedRandomArray
+	url = https://github.com/ltla/delayedrandomarray
+	shallow = true
+	registered = true
 [submodule "TileDBArray"]
 	path = TileDBArray
 	url = https://github.com/ltla/tiledbarray
 	shallow = true
 	registered = true
-[submodule "TrajectoryUtils"]
-	path = TrajectoryUtils
-	url = https://github.com/ltla/trajectoryutils
+[submodule "BumpyMatrix"]
+	path = BumpyMatrix
+	url = https://github.com/ltla/bumpymatrix
 	shallow = true
 	registered = true

@@ -1,18 +1,15 @@
 [
   {
+    "package": "ResidualMatrix"
+  },
+  {
     "package": "basilisk"
   },
   {
+    "package": "TrajectoryUtils"
+  },
+  {
     "package": "BiocSingular"
-  },
-  {
-    "package": "BumpyMatrix"
-  },
-  {
-    "package": "DelayedRandomArray"
-  },
-  {
-    "package": "ResidualMatrix"
   },
   {
     "package": "ScaledMatrix"
@@ -21,9 +18,12 @@
     "package": "SingleR"
   },
   {
+    "package": "DelayedRandomArray"
+  },
+  {
     "package": "TileDBArray"
   },
   {
-    "package": "TrajectoryUtils"
+    "package": "BumpyMatrix"
   }
 ]
