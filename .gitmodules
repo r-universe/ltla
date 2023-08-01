@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "basilisk"]
-	path = basilisk
-	url = https://github.com/ltla/basilisk
 [submodule "BiocSingular"]
 	path = BiocSingular
 	url = https://github.com/ltla/biocsingular
@@ -29,3 +26,6 @@
 [submodule "TrajectoryUtils"]
 	path = TrajectoryUtils
 	url = https://github.com/ltla/trajectoryutils
+[submodule "basilisk"]
+	path = basilisk
+	url = https://github.com/ltla/basilisk
