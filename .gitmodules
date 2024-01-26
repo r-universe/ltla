@@ -26,6 +26,3 @@
 [submodule "TrajectoryUtils"]
 	path = TrajectoryUtils
 	url = https://github.com/ltla/trajectoryutils
-[submodule "basilisk"]
-	path = basilisk
-	url = https://github.com/ltla/basilisk
